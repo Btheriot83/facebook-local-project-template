@@ -250,7 +250,7 @@ Facebook is surveying users more directly now, so low-satisfaction Reels get exp
 
 ### Hook types to test
 - **Value promise**
-  - "3 things that kill diesel engines in Phoenix heat"
+  - "3 things that kill diesel engines in hot-climate fleets"
 - **Statement of intent**
   - "Here’s what we check before a roadside no-start turns into a tow"
 - **Question / invitation**
@@ -475,11 +475,11 @@ For local business, useful signal order is usually:
 - **larry-marketing** for TikTok-specific experimentation
 - **facebook-local-business-template** when cloning this system to a new project or client
 
-## How To Adapt This For AZ Mobile Diesel
+## Example Adaptation: Mobile Diesel Repair Shop
 
-For AZ Mobile Diesel specifically:
+For a mobile diesel repair shop:
 - lead with real field proof
-- prioritize Phoenix/service-area specificity
+- prioritize service-area specificity
 - use Facebook as a trust and conversion layer
 - make TikTok the wider discovery engine
 - use Instagram as secondary distribution, not the main brain
@@ -487,7 +487,7 @@ For AZ Mobile Diesel specifically:
 - default to real job photos over AI-generated visuals
 - reserve scarce organic link posts for the highest-intent service pushes
 
-Best Facebook post types for AZ Mobile Diesel:
+Best Facebook post types for a mobile diesel shop:
 - roadside rescue recap
 - no-start / overheating / warning-light explainer
 - mechanic POV on expensive mistakes
