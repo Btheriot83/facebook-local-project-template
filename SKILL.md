@@ -16,16 +16,16 @@ version: 1.0.0
 
 ## Overview
 
-This is a **template skill** for adapting a Facebook operating system to a new project.
-
-Use it when you already know the broad Facebook model works:
-- Reels for discovery
-- feed posts for trust
-- Stories for recency
-- limited CTA/link posts for action
-
-The purpose of this skill is not to reinvent Facebook strategy every time.
-The purpose is to **clone the operating system fast**, then customize the parts that actually change by project.
+This template is purpose-built for local service businesses where revenue comes from calls, bookings, and scheduled jobs, not ecommerce carts.
+Every section is wired to a local booking flow so you can move from post ideas to real appointments.
+You keep one operating spine and adapt it with `{{PLACEHOLDER}}` fields instead of rewriting from scratch.
+That same spine ports cleanly across diesel, contractors, medspas, HVAC, plumbing, clinics, and roofing.
+Use this to turn a Facebook page into a local lead engine that can book 10-20 qualified service calls per month without paid ads.
+The output is conversion-focused: more calls, more message-to-booking handoffs, and fewer low-intent vanity posts.
+You are implementing this now because generic business content has lost organic reach across Facebook.
+AI-generated filler is flooding feeds, so on-the-ground proof from real jobs stands out by default.
+Meta's local-intent ranking increasingly favors real field context, before/afters, and customer outcomes.
+Most competitors still post stock graphics and broad promos, which leaves a practical opening if you execute with local proof discipline.
 
 ## Best Fit
 

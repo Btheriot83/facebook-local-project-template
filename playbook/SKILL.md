@@ -16,24 +16,16 @@ version: 1.1.0
 
 ## Overview
 
-This skill is a practical Facebook operating system for **local businesses and service brands**.
-
-It is built for businesses that win on:
-- trust
-- proof
-- local relevance
-- repeat visibility
-- direct response
-
-Examples:
-- mobile diesel repair
-- home services
-- local contractors
-- medspas
-- local retail/service hybrids
-
-This is **not** a generic social-media skill.
-It is Facebook-specific and tuned for businesses that need leads, calls, messages, bookings, and remembered local presence.
+This playbook is purpose-built for local service operators where revenue is driven by calls, bookings, and filled calendars, not online checkout volume.
+Each section maps directly to a local booking workflow so your content system produces appointments, not just reach.
+You keep one operating model and adapt it with `{{PLACEHOLDER}}` fields instead of rebuilding strategy for every niche.
+That lets you deploy the same framework across diesel, contractors, medspas, HVAC, plumbing, clinics, and roofing with minimal rewrite.
+Run this correctly and you can build a Facebook system that supports 10-20 qualified service inquiries per month from organic activity.
+The operating target is booked work: call volume, message-to-book conversion, and faster follow-up on high-intent leads.
+You should implement this in 2026 because generic business posting no longer gets consistent organic distribution.
+AI slop is saturating feeds, so authentic local proof from real jobs now carries more relative weight.
+Meta's ranking is rewarding local-intent signals like on-site footage, before/after context, and real customer outcomes.
+Most local competitors still rely on stock graphics and generic promos, which leaves room for operators who publish real field evidence.
 
 ## Research Basis (fresh)
 
@@ -250,7 +242,7 @@ Facebook is surveying users more directly now, so low-satisfaction Reels get exp
 
 ### Hook types to test
 - **Value promise**
-  - "3 things that kill diesel engines in hot-climate fleets"
+  - "3 issues that cause expensive breakdowns for {{PRIMARY_AUDIENCE}} in {{CITY}}"
 - **Statement of intent**
   - "Here’s what we check before a roadside no-start turns into a tow"
 - **Question / invitation**
@@ -475,9 +467,9 @@ For local business, useful signal order is usually:
 - **larry-marketing** for TikTok-specific experimentation
 - **facebook-local-business-template** when cloning this system to a new project or client
 
-## Example Adaptation: Mobile Diesel Repair Shop
+## Example Adaptation: {{BUSINESS_TYPE}}
 
-For a mobile diesel repair shop:
+For `{{BUSINESS_NAME}}`:
 - lead with real field proof
 - prioritize service-area specificity
 - use Facebook as a trust and conversion layer
@@ -487,7 +479,7 @@ For a mobile diesel repair shop:
 - default to real job photos over AI-generated visuals
 - reserve scarce organic link posts for the highest-intent service pushes
 
-Best Facebook post types for a mobile diesel shop:
+Best Facebook post types for `{{BUSINESS_TYPE}}`:
 - roadside rescue recap
 - no-start / overheating / warning-light explainer
 - mechanic POV on expensive mistakes
