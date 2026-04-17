@@ -9,7 +9,7 @@ description: >
   system to another business", "new local business Facebook playbook",
   "clone the Facebook skill for a client", "Facebook operating
   template".
-version: 1.0.0
+version: 1.1
 ---
 
 # Facebook Local Project Template
