@@ -9,7 +9,7 @@ description: >
   system to another business", "new local business Facebook playbook",
   "clone the Facebook skill for a client", "Facebook operating
   template".
-version: 1.1
+version: 1.2
 ---
 
 # Facebook Local Project Template
@@ -131,6 +131,8 @@ Then adjust:
 - if no one manages Stories → simplify instead of pretending
 - if the business lives in community groups → increase group-adapted posts
 
+Revenue anchor: this cadence should produce 2-4 inbound calls or messages per week; if it does not after 3 weeks, cut cadence and raise proof density.
+
 ### Step 4 — Build the project-specific content buckets
 Use this base structure and replace with niche-specific detail:
 
@@ -149,6 +151,8 @@ Example:
 - medspa → treatment myths, consultation expectations, before/after education
 - home services → emergency calls, seasonal maintenance, cost-of-delay posts
 
+Revenue anchor: each bucket must answer a question that a high-intent caller would ask before booking; if a bucket does not map to a real objection or booking trigger, cut it.
+
 ### Step 5 — Build the hook bank
 For each project, create 10–20 hooks split across:
 - value promise
@@ -160,6 +164,8 @@ For each project, create 10–20 hooks split across:
 
 Every hook should sound like that business, not like a generic social-media manager.
 
+Revenue anchor: hooks earn the scroll stop that turns into a message; every hook should map to a buyer moment (symptom, mistake, local condition) that precedes a call.
+
 ### Step 6 — Build the CTA bank
 Create project-specific CTA options such as:
 - call now
@@ -170,6 +176,8 @@ Create project-specific CTA options such as:
 - ask us before it gets worse
 
 Do not use the same CTA on every post.
+
+Revenue anchor: rotate CTAs toward the lowest-friction next step that still hands you a contactable lead (phone > message > form > save).
 
 ### Step 7 — Define comment discipline
 Set the first-30-minute rule:
@@ -187,7 +195,7 @@ When adapting the template to a new project, produce these sections:
 ### 1. Project role of Facebook
 State exactly what Facebook is for in this project.
 
-### 2. Weekly posting mix
+### 2. Weekly posting mix (with expected call/message volume)
 Show recommended cadence.
 
 ### 3. Content buckets
@@ -196,7 +204,7 @@ Give 5–7 buckets tailored to the business.
 ### 4. Hook examples
 Give at least 10 sample hooks.
 
-### 5. CTA guidance
+### 5. CTA guidance (ranked by booking-friction)
 Give strong CTA examples.
 
 ### 6. Group strategy
@@ -205,7 +213,7 @@ State whether groups matter and how to use them.
 ### 7. Risks / anti-patterns
 List what to avoid.
 
-### 8. Next 7 days
+### 8. Next 7 days (with the one post most likely to drive a call)
 Give concrete next actions.
 
 ## Reusable Prompt Block
@@ -226,6 +234,9 @@ Before finalizing any project-specific adaptation, verify:
 - Did I avoid generic empty social advice?
 - Did I match cadence to actual team capacity?
 - Did I give exact next actions?
+- Did I state what metric proves this works (calls, messages, booked jobs) and by when?
+- Does every content bucket map to a question a high-intent caller would ask?
+- Is at least one post in the 7-day plan explicitly designed to drive a call or message this week?
 
 ## Linked Files
 

@@ -9,7 +9,7 @@ description: >
   "Facebook strategy", "grow our Facebook page", "manage Facebook for a
   local business", "what should we post on Facebook", "Facebook groups",
   "Facebook Reels", "Meta page content", "local service Facebook".
-version: 1.1.0
+version: 1.2.0
 ---
 
 # Facebook Local Business
@@ -58,20 +58,24 @@ Think in four lanes:
 1. **Reels = discovery**
    - bring in non-followers
    - win attention fast
+   *Revenue role:* Reels earn first impressions from cold local audiences; measure them on comment and message volume per Reel, not likes.
 
 2. **Feed posts = trust**
    - explain
    - prove
    - localize
+   *Revenue role:* Feed reduces booking friction by answering buyer objections with proof, so more profile visits convert into calls and messages.
 
 3. **Stories = retention**
    - stay top-of-mind
    - show activity
    - create lightweight replies
+   *Revenue role:* Stories keep warm prospects active between posts and create low-friction reply paths that move to message threads and bookings.
 
 4. **Links / CTA posts = action**
    - drive calls, messages, bookings, quote requests
    - use sparingly
+   *Revenue role:* Action posts convert built trust into contactable leads and booked work, so judge them on calls, messages, and booked jobs.
 
 If you only remember one thing, remember this:
 
@@ -417,17 +421,23 @@ Use these buckets repeatedly:
 ## Metrics That Matter
 
 Track weekly:
-- views
-- viewers
-- watch-through / completion patterns on Reels
-- comments
-- shares
-- saves if surfaced
-- Page messages
-- calls / leads tied to posts
-- top-performing hooks
-- top-performing proof formats
-- same-day vs delayed-post performance
+- Primary outcome metrics:
+  - calls
+  - Page messages
+  - booked jobs tied to Facebook activity
+- Secondary performance metrics:
+  - views
+  - viewers
+  - shares
+  - saves if surfaced
+  - comments
+  - watch-through / completion patterns on Reels
+  - top-performing hooks
+  - top-performing proof formats
+  - same-day vs delayed-post performance
+- Vanity context metrics:
+  - likes
+  - reach
 
 ### Measurement rule for 2026
 Do **not** use old 10-second video benchmarks.
@@ -436,12 +446,11 @@ If you are comparing to old dashboards, reset your benchmark logic.
 
 Do not optimize only for likes.
 For local business, useful signal order is usually:
-1. messages / leads
-2. comments
-3. shares
-4. saves
-5. watch behavior
-6. likes
+1. calls, messages, booked jobs
+2. shares, saves, comments
+3. views and viewers
+4. watch behavior
+5. likes and reach (context only)
 
 ## Operating Workflow
 
@@ -490,10 +499,10 @@ Best Facebook post types for `{{BUSINESS_TYPE}}`:
 
 When responding, give:
 1. **objective**
-2. **recommended content mix**
+2. **recommended content mix (with expected call/message volume)**
 3. **specific examples**
-4. **CTA guidance**
-5. **next actions**
+4. **CTA guidance (ranked by booking-friction)**
+5. **next 7 days (with the one post most likely to drive a call)**
 
 Keep it practical.
 Keep it local.
@@ -511,3 +520,6 @@ Before finalizing any Facebook plan, verify:
 - Does it treat link posts as scarce, strategic shots?
 - Does it use current 2026 metrics instead of legacy 10-second video benchmarks?
 - Does it tell the user exactly what to post next?
+- Did I state what metric proves this works (calls, messages, booked jobs) and by when?
+- Does every content bucket map to a question a high-intent caller would ask?
+- Is at least one post in the 7-day plan explicitly designed to drive a call or message this week?
