@@ -94,6 +94,8 @@ For each new project, replace placeholders in these areas:
 ## Fast Adaptation Workflow
 
 ### Step 1 — Fill the project sheet
+**Output:** completed project-intake worksheet (markdown checklist with all required fields + assumptions + open questions + owner)
+
 Gather the following before writing strategy:
 
 - business name
@@ -107,6 +109,8 @@ Gather the following before writing strategy:
 If these are missing, infer only what is obvious. Otherwise ask.
 
 ### Step 2 — Set the Facebook role in the stack
+**Output:** Facebook role definition brief (markdown bullets: channel purpose, priority outcomes, exclusions, and owner)
+
 Decide what Facebook is supposed to do for this project:
 
 - discovery?
@@ -119,6 +123,8 @@ For most local service projects, the default is:
 - trust + conversion layer
 
 ### Step 3 — Choose the weekly mix
+**Output:** weekly cadence plan (markdown table: channel, posts/week, production owner, publish owner, response owner, review date)
+
 Start from this default:
 
 - **3 Reels / week**
@@ -134,6 +140,8 @@ Then adjust:
 Revenue anchor: this cadence should produce 2-4 inbound calls or messages per week; if it does not after 3 weeks, cut cadence and raise proof density.
 
 ### Step 4 — Build the project-specific content buckets
+**Output:** project bucket map (markdown table: bucket, buyer question, proof asset source, post format, owner, due date)
+
 Use this base structure and replace with niche-specific detail:
 
 1. proof
@@ -154,6 +162,8 @@ Example:
 Revenue anchor: each bucket must answer a question that a high-intent caller would ask before booking; if a bucket does not map to a real objection or booking trigger, cut it.
 
 ### Step 5 — Build the hook bank
+**Output:** hook bank document (markdown table: hook text, hook type, buyer moment mapped, target post type, owner)
+
 For each project, create 10–20 hooks split across:
 - value promise
 - statement of intent
@@ -167,6 +177,8 @@ Every hook should sound like that business, not like a generic social-media mana
 Revenue anchor: hooks earn the scroll stop that turns into a message; every hook should map to a buyer moment (symptom, mistake, local condition) that precedes a call.
 
 ### Step 6 — Build the CTA bank
+**Output:** CTA bank shortlist (markdown table: CTA line, use case, friction rank, target format, owner)
+
 Create project-specific CTA options such as:
 - call now
 - message us
@@ -180,6 +192,8 @@ Do not use the same CTA on every post.
 Revenue anchor: rotate CTAs toward the lowest-friction next step that still hands you a contactable lead (phone > message > form > save).
 
 ### Step 7 — Define comment discipline
+**Output:** comment-response SOP (markdown playbook: SLA, responder owner, triage rules, escalation path, conversion handoff script)
+
 Set the first-30-minute rule:
 - who replies?
 - how fast?
