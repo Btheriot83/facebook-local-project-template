@@ -12,6 +12,15 @@ description: >
 version: 1.2
 ---
 
+## Start in 5 Minutes
+
+1. First field to fill: business name + primary service + city
+2. First artifact to produce: 1-page weekly content plan (cadence, buckets, hooks, CTAs)
+3. Time to first output: 5 minutes
+4. Copy the Step 1 spine below and fill the [BRACKETED] placeholders
+5. Replace every [BRACKETED] value before shipping — no placeholders in final doc
+6. Ship to the FB page owner for review; iterate from real post performance
+
 # Facebook Local Project Template
 
 ## Overview
